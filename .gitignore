@@ -1,0 +1,15 @@
+# idea
+.idea/
+.idea/*
+workspace.xml
+
+# compiled
+*.pyc
+__pycache__/
+.cache/
+tests/.cache/
+.pytest_cache/
+
+# logs
+*.txt
+*.log
