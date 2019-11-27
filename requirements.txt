@@ -1,0 +1,6 @@
+webium==1.2.1
+pytest
+allure-pytest
+pycrypto
+requests
+pyperclip==1.7.0

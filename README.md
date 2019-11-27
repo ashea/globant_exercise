@@ -8,7 +8,7 @@ This document is based on Windows experience, other OS should require similar st
 - Download get-pip.py from https://github.com/pypa/get-pip can download the zip file and install it manually (on macOS:  sudo easy_install pip)
 - Create a folder with your project name in the root directory (C:)
 - Go to the github repository () and copy the .git path to clipboard
-- Open CMD or Git Bash console, go to ‘C:\Stratifi’ and type ‘git clone ‘ and then paste the path from your clipboard. This will download the repository in your local machine.
+- Open CMD or Git Bash console, go to ‘C:\’ and type ‘git clone ‘ and then paste the path from your clipboard. This will download the repository in your local machine.
 - Standing on ‘C:\your_project_name’ with Git Bash type ‘pip install -r requirements.txt’. 
 - Install selenium and pyperclip libs (pip install selenium and then the same with pyperclip)
 - Type “pip list” and it will display all libraries installed.
